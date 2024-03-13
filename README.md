@@ -9,6 +9,8 @@ go to folder directory
 
 python3 spam -> to lauch attack any chat dialog appeared on your screen
 
+ctl + c -> to stop
+
 **USE IT WISELY !!!**
 ============
 - coded by -> ig : @hackie.techie
