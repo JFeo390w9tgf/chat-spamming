@@ -5,6 +5,8 @@ How to use :
 ============
 git clone (url) -> to copy
 
+go to folder directory
+
 python3 spam -> to lauch attack any chat dialog appeared on your screen
 
 **USE IT WISELY !!!**
