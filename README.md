@@ -11,6 +11,6 @@ python3 spam -> to lauch attack any chat dialog appeared on your screen
 
 ctl + c -> to stop
 
-**USE IT WISELY !!!**
+#USE IT WISELY !!!
 ============
-- coded by -> ig : @hackie.techie
+- coded by -> ig : [@hackie.techie]: https://instagram.com/hackie.techie
