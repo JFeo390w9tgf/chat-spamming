@@ -1,3 +1,5 @@
+# coded by -> ig : @hackie.techie
+
 import pyautogui as spam
 import time
 
